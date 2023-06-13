@@ -11,7 +11,7 @@ const Header = () => {
 
             <div className='about'>
                 
-                <a href="https://akashpatel-two.vercel.app/">About Me</a>
+                <a href="https://akash-chi.vercel.app/">About Me</a>
              
             </div>
 
